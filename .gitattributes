@@ -1,2 +1,4 @@
 # Set default behavior to automatically convert line endings
 * text=auto eol=lf
+
+.github/workflows/*.lock.yml linguist-generated=true merge=ours
